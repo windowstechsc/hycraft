@@ -99,7 +99,8 @@ footer {
         padding: 1em;
     }
     main img {
-        height: 1em;
+        height: 150px;
+        width: 500px;
     }
    .social-media button {
         padding: 5px 10px;
@@ -114,7 +115,8 @@ footer {
         padding: 0.5em;
     }
     main img {
-        height: 1em;
+        height: 100px;
+        width: 500px;
     }
    .social-media button {
         padding: 2px 5px;
